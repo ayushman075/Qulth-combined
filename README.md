@@ -4,6 +4,13 @@
 
 This repository contains a Finance-Based Q&A Platform that allows users to ask and answer questions related to finance, investments, banking, and other financial topics. The platform includes user authentication, profile management, and an admin dashboard for question moderation.
 
+
+## Deployment Links
+
+- **Client Deployment Link**: [https://qulth.vercel.app/](https://qulth.vercel.app/)
+- **Server Deployment Link**: [https://qulth-backend.onrender.com/](https://qulth-backend.onrender.com/)
+
+
 ## Features
 
 ### Frontend
